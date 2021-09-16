@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kamran khan
 - 👀 I’m interested to Master myself in Computer Vision
-- 🌱 I’m currently learning Machine Learning
 - 📫 You can cantact with me through email: kamrankhnkami@gmail.com
 
 <!---
